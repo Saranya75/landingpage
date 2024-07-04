@@ -14,5 +14,9 @@
 
 }
 .nav1 a{
-    text-decoration: 
+    text-decoration: none;
+    color:white;
+    padding: 5px 10px;
+    background: #e67e22;
+    
 }
